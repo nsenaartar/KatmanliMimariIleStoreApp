@@ -1,0 +1,10 @@
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.Entity\bin\Debug\StoreApp.Entity.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.Entity\bin\Debug\StoreApp.Entity.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.Entity\obj\Debug\StoreApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.Entity\obj\Debug\StoreApp.Entity.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.Entity\obj\Debug\StoreApp.Entity.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.Entity\bin\Debug\StoreApp.Entity.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.Entity\bin\Debug\StoreApp.Entity.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.Entity\obj\Debug\StoreApp.Entity.csprojResolveAssemblyReference.cache
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.Entity\obj\Debug\StoreApp.Entity.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.Entity\obj\Debug\StoreApp.Entity.pdb

@@ -1,0 +1,168 @@
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\ApplicationInsights.config
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\csc.exe
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\vbc.exe
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.dll.config
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Web.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Business.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Entity.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Helpers.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Mvc.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Razor.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.DataAccess.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Business.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Entity.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Web.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Razor.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Helpers.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Mvc.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.DataAccess.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.SqlServer.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\ApplicationInsights.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\csc.exe
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\vbc.exe
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\VBCSCompiler.exe
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.dll.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.SqlServer.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Web.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Business.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Entity.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Helpers.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Mvc.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Razor.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Razor.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.DataAccess.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Business.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Entity.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.SqlServer.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Web.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Razor.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Razor.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Helpers.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Mvc.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.DataAccess.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.csprojResolveAssemblyReference.cache
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\7-SunumKatmanı MVC-2\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\ApplicationInsights.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\csc.exe
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\vbc.exe
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\VBCSCompiler.exe
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.dll.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.MVCWebUI.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.SqlServer.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Web.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Business.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Entity.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Helpers.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Mvc.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Razor.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Razor.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.DataAccess.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Business.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.Entity.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\EntityFramework.SqlServer.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.Web.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Razor.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Webpages.Razor.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Helpers.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\System.Web.Mvc.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\bin\StoreApp.DataAccess.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.csprojResolveAssemblyReference.cache
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.MVCWebUI\obj\Debug\StoreApp.MVCWebUI.pdb

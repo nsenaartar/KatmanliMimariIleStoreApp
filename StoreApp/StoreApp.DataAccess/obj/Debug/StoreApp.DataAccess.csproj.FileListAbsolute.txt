@@ -1,0 +1,24 @@
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.DataAccess.dll.config
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.DataAccess.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.DataAccess.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.Entity.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.Entity.pdb
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\obj\Debug\StoreApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\obj\Debug\StoreApp.DataAccess.dll
+C:\Users\sadikturan\Desktop\StoreApp\StoreApp.DataAccess\obj\Debug\StoreApp.DataAccess.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.DataAccess.dll.config
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.DataAccess.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.DataAccess.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.Entity.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\StoreApp.Entity.pdb
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\obj\Debug\StoreApp.DataAccess.csprojResolveAssemblyReference.cache
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\obj\Debug\StoreApp.DataAccess.dll
+D:\Videolar\Udemy\C# Programlama Dilini Öğreniyorum\Section 13-Katmanlı Mimari\8-\StoreApp\StoreApp.DataAccess\obj\Debug\StoreApp.DataAccess.pdb
